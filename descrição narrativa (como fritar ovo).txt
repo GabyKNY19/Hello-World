@@ -1,0 +1,53 @@
+1. ir até a geladeira 
+
+2. abrir a geladeira
+
+3. pegar o ovo
+
+4. fechar a porta da geladeira
+
+5. ir até a mesa
+
+6. deixar o ovo na mesa
+
+7. ir até a pia
+
+8. pegar o óleo no armário da pia
+
+9. pegar o sal no armário da pia
+
+10. deixar o óleo e o sal na mesa
+
+11. voltar para a pia
+
+12. fechar o armário da pia
+
+13. ir até o armário 
+
+14. pegar a frigideira
+
+15. ir até o fogão 
+
+16. deixar a frigideira numa das bocas do fogão
+
+17. ir até a mesa
+
+18. pegar o óleo
+
+19. ir até o fogão 
+
+20. abrir a garrafa de óleo
+
+21. despejar um fio de óleo na frigideira
+
+22. fechar a garrafa de óleo
+
+23. ir até a mesa
+
+24. deixar o óleo na mesa
+
+25. pegar o sal e o ovo
+
+(considerando que o fogão está do lado da pia)
+
+26. 
