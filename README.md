@@ -1,2 +1,2 @@
 # equipe-1
-teste git
+teste-criar-repositório
